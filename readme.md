@@ -83,3 +83,6 @@ Pull Requests (PR)
 - After receiving 2 approvals, the developer must execute Squash and Merge
 - Use a default PR template
 - PR name should follow a template `[PM-trelloTitle]: task-name`
+
+### Author 
+* Github - https://github.com/nurik0508  
