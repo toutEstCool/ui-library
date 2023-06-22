@@ -85,4 +85,4 @@ Pull Requests (PR)
 - PR name should follow a template `[PM-trelloTitle]: task-name`
 
 ### Author 
-* Github - https://github.com/nurik0508  
+* Github - https://github.com/nurik0508
