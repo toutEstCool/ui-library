@@ -1,0 +1,6 @@
+@import './reset.css';
+
+body {
+  scroll-behavior: smooth;
+}
+
