@@ -31,19 +31,22 @@ body {
 .timeline-chunk {
   background-color: #717171;
 
-  height: 2px;
+  height: 3px;
   width: 100%;
 
   border-radius: 2px;
 }
 
 .timeline-chunk + .timeline-chunk {
-  margin-left: 3px;
+  margin-left: 4px;
+}
+
+.timeline-chunk-active ~ .timeline-chunk > .timeline-chunk-inner {
+  width: 0;
 }
 
 .timeline-chunk-inner {
   height: inherit;
-  width: 0;
 
   background-color: #ffffff;
 
@@ -75,6 +78,7 @@ body {
 
   width: 15%;
   height: 100%;
+  cursor: pointer;
 }
 
 .player-chunk-prev {
